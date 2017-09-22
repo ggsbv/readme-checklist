@@ -17,3 +17,7 @@ users should go about using the application. For example, an Admin Section and a
 ## Brief examples on using major dependencies.
 * Databases?
 * Testing and integration tools?
+
+# FAQs
+
+# Known Issues
